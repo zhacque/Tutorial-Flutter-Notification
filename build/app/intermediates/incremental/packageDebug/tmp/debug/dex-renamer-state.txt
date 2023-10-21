@@ -1,0 +1,4 @@
+#Sat Oct 21 18:22:59 WIB 2023
+base.0=C\:\\Kampus\\Semester III\\Pengantar AI\\V\\notif\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

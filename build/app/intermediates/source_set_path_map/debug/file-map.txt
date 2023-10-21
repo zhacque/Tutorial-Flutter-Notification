@@ -1,0 +1,22 @@
+com.example.notif.app-debug-0 C:\Kampus\Semester III\Pengantar AI\V\notif\android\app\src\debug\res
+com.example.notif.app-main-1 C:\Kampus\Semester III\Pengantar AI\V\notif\android\app\src\main\res
+com.example.notif.app-pngs-2 C:\Kampus\Semester III\Pengantar AI\V\notif\build\app\generated\res\pngs\debug
+com.example.notif.app-resValues-3 C:\Kampus\Semester III\Pengantar AI\V\notif\build\app\generated\res\resValues\debug
+com.example.notif.app-rs-4 C:\Kampus\Semester III\Pengantar AI\V\notif\build\app\generated\res\rs\debug
+com.example.notif.app-mergeDebugResources-5 C:\Kampus\Semester III\Pengantar AI\V\notif\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.notif.app-mergeDebugResources-6 C:\Kampus\Semester III\Pengantar AI\V\notif\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.notif.app-merged_res-7 C:\Kampus\Semester III\Pengantar AI\V\notif\build\app\intermediates\merged_res\debug
+com.example.notif.app-packaged_res-8 C:\Kampus\Semester III\Pengantar AI\V\notif\build\firebase_core\intermediates\packaged_res\debug
+com.example.notif.app-packaged_res-9 C:\Kampus\Semester III\Pengantar AI\V\notif\build\firebase_messaging\intermediates\packaged_res\debug
+com.example.notif.app-packaged_res-10 C:\Kampus\Semester III\Pengantar AI\V\notif\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.notif.app-packaged_res-11 C:\Kampus\Semester III\Pengantar AI\V\notif\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.notif.app-jetified-window-1.0.0-beta04-12 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.notif.app-jetified-play-services-basement-18.1.0-13 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\58aa1384bde170d075503b845cfcf44c\transformed\jetified-play-services-basement-18.1.0\res
+com.example.notif.app-jetified-firebase-messaging-23.2.1-14 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\68c9a3282efd9fe187999bff192c1384\transformed\jetified-firebase-messaging-23.2.1\res
+com.example.notif.app-jetified-annotation-experimental-1.1.0-15 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.notif.app-jetified-firebase-common-20.3.3-16 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\6f9fa5902813f78de2aefcdfcdb180f7\transformed\jetified-firebase-common-20.3.3\res
+com.example.notif.app-core-1.6.0-17 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.notif.app-jetified-play-services-base-18.0.1-18 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+com.example.notif.app-jetified-window-java-1.0.0-beta04-19 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.notif.app-media-1.1.0-20 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\c7b5e40c8322718297956b3bec8a46d6\transformed\media-1.1.0\res
+com.example.notif.app-localbroadcastmanager-1.1.0-21 C:\Users\Tubagus Farhan\.gradle\caches\transforms-3\eca346024ffb3c0c46b9a6522a73d49a\transformed\localbroadcastmanager-1.1.0\res
